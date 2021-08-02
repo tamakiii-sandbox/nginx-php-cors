@@ -1,0 +1,10 @@
+{
+    "name": "tamakiii-sandbox/nginx-php-cors",
+    "authors": [
+        {
+            "name": "tamakiii",
+            "email": "tamakiii@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
